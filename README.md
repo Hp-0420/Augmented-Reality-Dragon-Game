@@ -117,9 +117,3 @@ This project is great for:
 - 📲 Add iOS support via ARKit
 
 ---
-> 🎉 Proudly built with passion, dragons, and augmented reality.
-```
-
----
-
-Let me know if you’d like a version with badges, GIFs, or if you want to include your own screenshots or GitHub username.
